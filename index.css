@@ -152,10 +152,11 @@ body {
 
 .company-link {
     font-size: 11px;
-    color: #999;
-    text-decoration: none;
+    color: blue;
+    text-decoration: underline;
     display: block;
     margin-bottom: 5px;
+    cursor: pointer;
 }
 
 .exp-left .role {
